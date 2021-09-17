@@ -1,4 +1,4 @@
-FROM debian:buster-slim as base
+FROM debian:bullseye-slim as base
 
 LABEL maintainer "hello@jaysignorello.com"
 
